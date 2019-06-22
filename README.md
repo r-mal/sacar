@@ -1,7 +1,7 @@
 # sacar
 Self-Attention Concept, Attribute, and Relation Detection system
 
-This is a multi-task network for jointly identifying medical concept, their attributes, and relations between them at the document level using the Adaptive Universal Transformer.
+This is a multi-task network for jointly identifying medical concepts, their attributes, and relations between them at the document level using the Adaptive Universal Transformer.
 
 🚧🚧🚧🚧🚧🚧🚧
 
